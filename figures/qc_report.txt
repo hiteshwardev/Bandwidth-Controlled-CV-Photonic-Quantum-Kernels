@@ -1,0 +1,57 @@
+[PASS] manifest has at least one figure (6 found)
+[PASS] fig1_concentration_vs_M.png exists and non-empty
+[PASS] fig1_concentration_vs_M.pdf exists and non-empty
+[PASS] fig1_concentration_vs_M: kind 'single' is single|double
+[PASS] fig1_concentration_vs_M.png dpi 600 >= 300
+[PASS] fig1_concentration_vs_M.png physical width 9.00 cm in single band [8.0, 10.0] cm
+[PASS] fig1_concentration_vs_M: script path exists (src/make_figures.py)
+[PASS] fig1_concentration_vs_M: data path exists (results/gaussian_concentration.csv)
+[PASS] fig1_concentration_vs_M: caption_stub non-empty
+[PASS] fig1_concentration_vs_M: layout clean (no overlaps/clipping)
+[PASS] fig2_rate_vs_loss.png exists and non-empty
+[PASS] fig2_rate_vs_loss.pdf exists and non-empty
+[PASS] fig2_rate_vs_loss: kind 'single' is single|double
+[PASS] fig2_rate_vs_loss.png dpi 600 >= 300
+[PASS] fig2_rate_vs_loss.png physical width 9.00 cm in single band [8.0, 10.0] cm
+[PASS] fig2_rate_vs_loss: script path exists (src/make_figures.py)
+[PASS] fig2_rate_vs_loss: data path exists (results/rate_vs_loss.csv)
+[PASS] fig2_rate_vs_loss: caption_stub non-empty
+[PASS] fig2_rate_vs_loss: layout clean (no overlaps/clipping)
+[PASS] fig3_bandwidth_compensation.png exists and non-empty
+[PASS] fig3_bandwidth_compensation.pdf exists and non-empty
+[PASS] fig3_bandwidth_compensation: kind 'single' is single|double
+[PASS] fig3_bandwidth_compensation.png dpi 600 >= 300
+[PASS] fig3_bandwidth_compensation.png physical width 9.00 cm in single band [8.0, 10.0] cm
+[PASS] fig3_bandwidth_compensation: script path exists (src/make_figures.py)
+[PASS] fig3_bandwidth_compensation: data path exists (results/bandwidth_compensation.csv)
+[PASS] fig3_bandwidth_compensation: caption_stub non-empty
+[PASS] fig3_bandwidth_compensation: layout clean (no overlaps/clipping)
+[PASS] fig4_gbs_vs_gaussian.png exists and non-empty
+[PASS] fig4_gbs_vs_gaussian.pdf exists and non-empty
+[PASS] fig4_gbs_vs_gaussian: kind 'double' is single|double
+[PASS] fig4_gbs_vs_gaussian.png dpi 600 >= 300
+[PASS] fig4_gbs_vs_gaussian.png physical width 18.00 cm in double band [16.0, 20.0] cm
+[PASS] fig4_gbs_vs_gaussian: script path exists (src/make_figures.py)
+[PASS] fig4_gbs_vs_gaussian: data path exists (results/gbs_concentration.csv)
+[PASS] fig4_gbs_vs_gaussian: caption_stub non-empty
+[PASS] fig4_gbs_vs_gaussian: layout clean (no overlaps/clipping)
+[PASS] fig5_concentration_vs_simulability.png exists and non-empty
+[PASS] fig5_concentration_vs_simulability.pdf exists and non-empty
+[PASS] fig5_concentration_vs_simulability: kind 'double' is single|double
+[PASS] fig5_concentration_vs_simulability.png dpi 600 >= 300
+[PASS] fig5_concentration_vs_simulability.png physical width 18.00 cm in double band [16.0, 20.0] cm
+[PASS] fig5_concentration_vs_simulability: script path exists (src/make_figures.py)
+[PASS] fig5_concentration_vs_simulability: data path exists (results/h4_boundary.csv)
+[PASS] fig5_concentration_vs_simulability: caption_stub non-empty
+[PASS] fig5_concentration_vs_simulability: layout clean (no overlaps/clipping)
+[PASS] fig6_nongaussian_concentration.png exists and non-empty
+[PASS] fig6_nongaussian_concentration.pdf exists and non-empty
+[PASS] fig6_nongaussian_concentration: kind 'single' is single|double
+[PASS] fig6_nongaussian_concentration.png dpi 600 >= 300
+[PASS] fig6_nongaussian_concentration.png physical width 9.00 cm in single band [8.0, 10.0] cm
+[PASS] fig6_nongaussian_concentration: script path exists (src/make_figures.py)
+[PASS] fig6_nongaussian_concentration: data path exists (results/nongaussian_concentration.csv)
+[PASS] fig6_nongaussian_concentration: caption_stub non-empty
+[PASS] fig6_nongaussian_concentration: layout clean (no overlaps/clipping)
+
+FIGURE QC: PASS
